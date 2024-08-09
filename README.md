@@ -6,7 +6,7 @@
 ### <div align="center">I'm Murtaza, a full-time full-stack freelance developer 👨‍💻 working remotely since 2018 🚀</div>  
   
 
-- 🔭 I’m currently working on MERN stack, NextJS, Typescript, Flutter, Dart, and Chatbot development.  
+- 🔭 I’m currently working on MERN stack, NextJS, Typescript, React Native, Flutter, Dart, and Chatbot development.  
   
 
 - 🌱 I’m currently learning Advanced AI and Kubernetes  
